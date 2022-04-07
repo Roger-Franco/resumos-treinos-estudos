@@ -6,3 +6,9 @@
 - Lista de cadastro - Cadastro : [react-materialui-typescript](https://github.com/Roger-Franco/react-materialui-typescript)
 
 - Tela de Login - Login : [login-screen-mui](https://github.com/Roger-Franco/login-screen-mui)
+
+- Tela de Login e CRUD simples usando Typescript- Login-CRUD : [aula-typescript](https://github.com/Roger-Franco/aula-typescript)
+
+
+
+
